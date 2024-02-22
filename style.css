@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.calc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    font-size: 70px;
+}
+
+.left{
+    width: 20%;
+    height: 100px;
+    text-align: center;
+}
+
+.rigth{
+    width: 20%;
+    height: 100px;
+    text-align: center;
+}
+
+#uservalue{
+    width: 20%;
+    margin-right: 10px;
+    font-size: 60px;
+    height: 100px;
+}
+
+#bbt{
+    width: 80%;
+    height: 30px;
+}
+
+#iniciar{
+    width: 50%;
+    height: 30px;
+    margin-bottom: 25px;
+}
+
+
+
+
